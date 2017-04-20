@@ -1,8 +1,11 @@
 {
 	"manifest_version": 2,
-	"name": "Caaaarbs",
-	"version": "1.0",
-	"description": "Paleo's best friend.",
+	"name": "Macri to Menem",
+	"version": "1.1",
+	"description": "Las palabras con Macri cambian.",
+	"icons": {
+		"128": "icon128.png"
+	},
 	"content_scripts": 
 	[
 		{
